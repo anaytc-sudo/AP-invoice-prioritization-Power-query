@@ -13,7 +13,7 @@ Automation built in Excel Power Query that streamlines the daily process of iden
 
 ## Files
 
-- [case-study-power-query-AP.md](./case-study-power-query-AP.md) — full write-up: problem, solution, and measured impact
+- [AP Invoice Prioritization Automation with Power Query.docx](<./AP%20Invoice%20Prioritization%20Automation%20with%20Power%20Query.docx>) — full write-up: problem, solution, and measured impact
 - [Portfolio_Power_Query_AP_Invoices_example_EN.xlsx](./Portfolio_Power_Query_AP_Invoices_example_EN.xlsx) — example workbook (fictional data) showing the same structure and logic as the real process
 
 > Note: all data in this repository is fictional. It replicates the structure and logic of a real production workflow without exposing confidential client information.
